@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 current_dir=$(pwd)
 echo "current working directory: $current_dir"
+=======
+echo $(pwd)
+>>>>>>> cbcf350364678323c14c6fe809c642086937b72d
